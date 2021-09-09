@@ -1,0 +1,26 @@
+/**
+* @name Lyni-Matter
+* @version Auto Updater
+* @description 
+* @author Sloxiver#1715
+* @invite 
+* @Source 
+* @website
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://i.imgur.com/rCGeEpr.jpg');
+--home-image: url('undefined');
+--avatar-size: 17px;
+--accent: 82,255,104;
+--accent-alt: 29,101,134;
+--background-solid: #161921;
+--background-solid-dark: #101218;
+--background-solid-darker: #0c0e12;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--customFont: 'Nunito';
+}
